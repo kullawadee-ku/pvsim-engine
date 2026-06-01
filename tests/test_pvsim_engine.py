@@ -7,7 +7,7 @@
 # Faculty of Engineering at Sriracha, Kasetsart University
 #
 # https://www.g-set.education
-# Version : 0.1.0
+# Version : 1.0.2
 # License : MIT
 # =====================================================================
 """
