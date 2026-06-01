@@ -10,6 +10,9 @@
 # Version : 1.0.2
 # License : MIT
 # =====================================================================
+
+__version__ = '1.0.2'
+
 from datetime import datetime, timedelta
 import csv
 import math
@@ -17,6 +20,7 @@ import random
 import matplotlib.pyplot as plt
 
 __all__ = [
+    '__version__',
     # Presets
     'SeasonPreset',
     'LocationPreset',
