@@ -1,6 +1,6 @@
 # G-SET PV Plant Simulation Engine
 
-**Version:** 1.0.2 &nbsp;|&nbsp; **License:** MIT &nbsp;|&nbsp; **Python:** 3.10+
+**Version:** 1.0.2a &nbsp;|&nbsp; **License:** MIT &nbsp;|&nbsp; **Python:** 3.10+
 
 > Physics-accurate rooftop solar PV simulation engine for education and research.
 > Developed by the G-SET Research Unit, Kasetsart University Sriracha Campus.

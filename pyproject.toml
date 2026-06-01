@@ -1,6 +1,6 @@
 [project]
 name = "pvsim-engine"
-version = "1.0.2"
+version = "1.0.2a"
 description = "PV-IoT Simulation Engine — G-SET Research Unit, Kasetsart University Sriracha Campus"
 authors = [
     { name = "Kullawadee Somboonviwat", email = "kullawadee.som@ku.th" }

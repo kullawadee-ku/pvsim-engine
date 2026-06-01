@@ -7,11 +7,11 @@
 # Faculty of Engineering at Sriracha, Kasetsart University
 #
 # https://www.g-set.education
-# Version : 1.0.2
+# Version : 1.0.2a
 # License : MIT
 # =====================================================================
 
-__version__ = '1.0.2'
+__version__ = '1.0.2a'
 
 from datetime import datetime, timedelta
 import csv
