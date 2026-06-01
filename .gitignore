@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# uv / build
+dist/
+.venv/
+uv.lock
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+
+.idea/
