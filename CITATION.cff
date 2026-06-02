@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Somboonviwat"
+    given-names: "Kullawadee"
+    orcid: "https://orcid.org/0000-0003-3618-8562"
+  - family-names: "Sangpanich"
+    given-names: "Umarin"
+    orcid: "https://orcid.org/0009-0005-9944-4799"
+title: "pvsim-engine"
+version: 1.0.5
+date-released: 2026-06-02
+url: "https://github.com/kullawadee-ku/pvsim-engine"
