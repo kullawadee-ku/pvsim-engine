@@ -156,10 +156,25 @@ For full parameter tables and class references, see **[api_reference.md](api_ref
 
 ---
 
-## Credits
+## Citation
+If you use this software in your research, please cite it as below.
+
+```bibtex
+@misc{pvsim-engine2026,
+  author = {Kullawadee Somboonviwat and Umarin Sangpanich},
+  title = {{pvsim-engine}: Physics-accurate rooftop solar {PV} simulation engine for education and research},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/kullawadee-ku/pvsim-engine}}
+}
+---
+
+## Creator
 
 **Kullawadee Somboonviwat, Ph.D.**
 [kullawadee.som@ku.th](mailto:kullawadee.som@ku.th)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3618--8562-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3618-8562)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=th&user=DqIZWSgAAAAJ)
 
 G-SET Research Unit
 Faculty of Engineering at Sriracha, Kasetsart University
