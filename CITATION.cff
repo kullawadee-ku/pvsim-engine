@@ -7,7 +7,7 @@ authors:
   - family-names: "Sangpanich"
     given-names: "Umarin"
     orcid: "https://orcid.org/0009-0005-9944-4799"
-title: "pvsim-engine"
+title: "pvsim-engine: Physics-accurate rooftop solar PV simulation engine for education and research"
 version: 1.0.5
 date-released: 2026-06-02
 url: "https://github.com/kullawadee-ku/pvsim-engine"
